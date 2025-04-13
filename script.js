@@ -1,31 +1,31 @@
 document.addEventListener('DOMContentLoaded', function() {
     // Slideshow data - replace with your own images and captions
     const slides = [
-    { 
-        imageUrl: '/images/5.jpg',
-        caption: 'Celebrating you!'
-    },
-    { 
-        imageUrl: '/images/2.jpg',
-        caption: 'Make a wish!'
-    },
-    { 
-        imageUrl: '/images/6.jpg',
-        caption: 'soft but strong'
-    },
-    { 
-        imageUrl: '/images/5.jpg',
-        caption: 'Enjoy your day!',
-    },
-    { 
-        imageUrl: '/images/4.jpg',
-        caption: 'One of one.'
-    },
-    { 
-        imageUrl: '/images/1.jpg',
-        caption: 'Happy moments!'
-    }
-];
+        { 
+            imageUrl: '/images/5.jpg',
+            caption: 'Celebrating you!'
+        },
+        { 
+            imageUrl: '/images/2.jpg',
+            caption: 'Make a wish!'
+        },
+        { 
+            imageUrl: '/images/6.jpg',
+            caption: 'soft but strong'
+        },
+        { 
+            imageUrl: '/images/5.jpg',
+            caption: 'Enjoy your day!',
+        },
+        { 
+            imageUrl: '/images/4.jpg',
+            caption: 'One of one.'
+        },
+        { 
+            imageUrl: '/images/1.jpg',
+            caption: 'Happy moments!'
+        }
+    ];
 
     // Initialize slideshow
     const slideshowInner = document.querySelector('.slideshow-inner');
