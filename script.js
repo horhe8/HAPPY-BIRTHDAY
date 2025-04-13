@@ -2,27 +2,27 @@ document.addEventListener('DOMContentLoaded', function() {
     // Slideshow data - replace with your own images and captions
     const slides = [
         { 
-            imageUrl: 'images/5.jpg',
+            imageUrl: src="images/5.jpg",
             caption: 'Celebrating you!'
         },
         { 
-            imageUrl: 'images/2.jpg',
+            imageUrl: src="images/2.jpg",
             caption: 'Make a wish!'
         },
         { 
-            imageUrl: 'images/6.jpg',
+            imageUrl: src="images/6.jpg",
             caption: 'soft but strong'
         },
         { 
-            imageUrl: 'images/3.jpg',
+            imageUrl: src="images/3.jpg",
             caption: 'Enjoy your day!',
         },
         { 
-            imageUrl: 'images/4.jpg',
+            imageUrl: src="images/4.jpg",
             caption: 'One of one.'
         },
         { 
-            imageUrl: 'images/1.jpg',
+            imageUrl: src="images/1.jpg",
             caption: 'Happy moments!'
         }
     ];
