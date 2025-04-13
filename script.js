@@ -2,27 +2,27 @@ document.addEventListener('DOMContentLoaded', function() {
     // Slideshow data - replace with your own images and captions
    const slides = [
         { 
-            imageUrl: 'images/1.jpg',  // No leading slash - relative path
+            imageUrl: 'images/1.JPG',  // No leading slash - relative path
             caption: 'Happy moments!'
         },
         { 
-            imageUrl: 'images/2.jpg',
+            imageUrl: 'images/2.JPG',
             caption: 'Make a wish!'
         },
         { 
-            imageUrl: 'images/4.jpg',
+            imageUrl: 'images/4.JPG',
             caption: 'One of one.'
         },
         { 
-            imageUrl: 'images/5.jpg',
+            imageUrl: 'images/5.JPG',
             caption: 'Celebrating you!'
         },
         { 
-            imageUrl: 'images/3.jpg',
+            imageUrl: 'images/3.JPG',
             caption: 'Enjoy your day!'
         },
         { 
-            imageUrl: 'images/6.jpg',
+            imageUrl: 'images/6.JPG',
             caption: 'soft but strong'
         }
     ];
